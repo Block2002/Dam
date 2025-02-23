@@ -23,7 +23,7 @@ from SONALI.utils.inline import (
     close_markup,
     stream_markup,
     stream_markup_timer,
-    telegram_markup_timer,
+    
 )
 from SONALI.utils.stream.autoclear import auto_clean
 from SONALI.utils.thumbnails import get_thumb
