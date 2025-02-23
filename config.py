@@ -35,9 +35,9 @@ OWNER_ID = int(getenv("OWNER_ID", 7909700698))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("samdio5")
+HEROKU_APP_NAME = "samdio55"
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HRKU-a19e584b-5b15-4b76-b429-258cbfc20a8e")
+HEROKU_API_KEY = "HRKU-a19e584b-5b15-4b76-b429-258cbfc20a8e"
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
